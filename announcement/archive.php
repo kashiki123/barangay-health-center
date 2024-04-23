@@ -1,8 +1,0 @@
-<?php
-include_once('../../action/redirect.php');
-?>
-<?php
-$pageTitle = "Archive Data";
-$contentTemplate = 'archive_content.php';
-include('../layout.php');
-?>
